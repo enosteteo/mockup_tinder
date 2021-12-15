@@ -1,16 +1,16 @@
 # mockup_tinder
 
-A new Flutter project.
+Exercício de Leitura de Mockups da Flutterando Masterclass
 
-## Getting Started
+## Como executar
 
-This project is a starting point for a Flutter application.
+Este projeto não utiliza pacotes / bibliotecas externas.
 
-A few resources to get you started if this is your first Flutter project:
+Dado que possua o flutter em uma versão maior ou igual a 2.12.0 e menor que 3.0.0, é necessário utilizar apenas o comando a seguir:
+- `flutter run`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Segue uma captura de tela (screenshot) da execução no simulador (Iphone 13):
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image info](./.README/screenshot.png)
+
+
